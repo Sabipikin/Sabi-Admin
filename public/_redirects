@@ -1,0 +1,3 @@
+# Netlify configuration for Next.js static export
+# Catch-all rule - serve index.html for any URL that doesn't match an existing file
+/*    /index.html   200
